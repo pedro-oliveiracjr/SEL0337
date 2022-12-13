@@ -53,10 +53,8 @@ Para a conexão do LED a placa, utilize a conexão demonstrada abaixo:
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](https://github.com/pedro-oliveiracjr/SEL0337/blob/main/Roteiros/P3_BLINK_LED.png?raw=true)
 
 
 O pinout com descrição e numeração de cada um dos pinos pode ser consultado a partir da internet a partir do site de [pinout](https://pinout.xyz/) da rasp (ou também por meio do comando “pinout” no terminal).
