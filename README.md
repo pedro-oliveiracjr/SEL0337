@@ -100,14 +100,14 @@ estruturas lógicas, métodos de conversão de tipo e métodos de manipulação 
 ## Aula 11 (prática)
 - **Prática #7** - Introdução ao uso de protocolos de comunicação em sistemas com Linux embarcado, leitura de dados analógicos, uso de periféricos e comunicação serial entre sistemas embarcados distintos (SBC - microcontrolador), a partir de programação em “C” na plataforma Arduino.
    - Conceitos importantes: Leituras analógicas, I2C, programação em C, arduino, comunicação serial, controller/responder
-- **Objetivos**: desenvolvimento de uma aplicação em sistema com Linux embarcado capaz de realizar leituras analógicas, utilizando a plataforma Raspberry Pi, como plataforma controladora e de alto nível, em conjunto a um microcontrolador da plataforma Arduino (dispositivo controlado no barramento I2C, que irá cumprir a função de baixo nível, responder solicitações da Rasp, fazer a leitura e enviar dados analógicos, que a Rasp. não possui conversor A/D.)
+- **Objetivos**: desenvolvimento de uma aplicação em sistema com Linux embarcado capaz de realizar leituras analógicas, utilizando a plataforma Raspberry Pi, como plataforma controladora e de alto nível, em conjunto a um microcontrolador da plataforma Arduino (dispositivo controlado no barramento I2C, que irá cumprir a função de baixo nível, responder solicitações da Rasp, fazer a leitura e enviar dados analógicos, **uma vez que a Rasp. não possui conversor A/D**.)
 
 ## Aula 12 (prática)
 ** Continuação da Prática #7**  
 
 ## Aula 13 (prática)
 - **Prática #8** - Inicialização automática de aplicações em sistemas embarcados a partir de serviços no Init System, utilizando recursos do systemd
-   - Conceitos importantes: Init System, systemd, SysVinit, systemctl, unit file, Boot process, inciaização de serviços durante o Boot.
+   - Conceitos importantes: *Init System, systemd, SysVinit, systemctl, unit file, Boot process, inciaização de serviços durante o Boot*.
 - **Objetivos**: Configurar aplicações embarcadas que, por vezes, necessitam operar já na inicialização do sistema operacional ao invés de aguardar alguém logar no sistema e iniciá-la manualmente.
 
 ## Aula 14 (prática)
@@ -134,8 +134,8 @@ estruturas lógicas, métodos de conversão de tipo e métodos de manipulação 
   1. Formatação e sequência lógica (introdução, desenvolvimento e conclusão) - 2 pontos;
   2. Envio dos arquivos/scripts – 1 ponto;
   3. Apresentação e discussão dos resultados – 3 pontos;
-  4. Explanação sobre os comandos executados no Terminal Linux – 2 pontos;
-  5. Item relativo à natureza de cada atividade prática* – 2 pontos;
+  4. Explanação sobre os comandos executados no Terminal Linux ou comandos/logica/bibliotecas Python utilizadas para implementar o programa solicitado – 2 pontos;
+  5. Item relativo à natureza de cada atividade prática (será informado em cada prática) – 2 pontos;
 
 ## Dinâmica das aulas:
 - **Pré-aula**: roteiro da atividade prática a ser implementada durante a aula. O roteiro será disponibilizado com antecedência para leitura prévia, possiblitando certo preparo e plenajamento do experimento (em alguns casos, haverá uma atividade "pré-lab.", como incentivo para leitura do roteiro).
