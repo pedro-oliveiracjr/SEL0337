@@ -137,4 +137,7 @@ estruturas lógicas, métodos de conversão de tipo e métodos de manipulação 
   4. Explanação sobre os comandos executados no Terminal Linux – 2 pontos;
   5. Item relativo à natureza de cada atividade prática* – 2 pontos;
 
+## Dinâmica das aulas:
+- **Pré-aula**: roteiro da atividade prática a ser implementada durante a aula. O roteiro será disponibilizado com antecedência para leitura prévia, possiblitando certo preparo e plenajamento do experimento (em alguns casos, haverá uma atividade "pré-lab.", como incentivo para leitura do roteiro).
+- **Pós-aula**: relatório documentando a atividade prática, correlação do tema da atividade com situações práticas do coditiado, indústria, pesquisa científica, sociedade; leitura complementar, documentação no GitHub, ou uma tarefa/desafio relativo ao tema da prática.
 
